@@ -61,6 +61,8 @@ main {
   margin-bottom: 15px;
   font-weight: 600;
   line-height: 54px;
+  letter-spacing: 0.25px;
+  text-align: center;
 }
 
 .content p {
@@ -88,7 +90,7 @@ main {
 }
 
 .showcase .card p {
-  margin: 10px 0 38px 0;
+  margin: 9px 0 30px 0;
   max-width: 286px;
   font-size: 13px;
   line-height: 23px;
@@ -100,27 +102,30 @@ main {
   float: right;
   height: 64px;
   width: 64px;
-  margin-bottom: 50p;
 }
 
 .showcase .card h3 {
   font-size: 20px;
   line-height: 30px;
   font-weight: 600;
-  margin-top: -2px;
+  margin-top: -1px;
 }
 
 .showcase .card-1 {
-  border-top: 3px var(--red) solid;
+  border-top: 4px var(--red) solid;
+  box-shadow: hsla(213, 47%, 67%, 0.5);
 }
 .showcase .card-2 {
-  border-top: 3px var(--Cyan) solid;
+  border-top: 4px var(--Cyan) solid;
+  box-shadow: hsla(213, 47%, 67%, 0.5);
 }
 .showcase .card-3 {
-  border-top: 3px var(--Blue) solid;
+  border-top: 4px var(--Blue) solid;
+  box-shadow: hsla(213, 47%, 67%, 0.5);
 }
 .showcase .card-4 {
-  border-top: 3px var(--Orange) solid;
+  border-top: 4px var(--Orange) solid;
+  box-shadow: hsla(213, 47%, 67%, 0.5);
 }
 
 .showcase .card-1 {
