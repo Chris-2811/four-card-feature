@@ -43,7 +43,7 @@ main {
 
 .content {
   text-align: center;
-  margin-bottom: 60px;
+  margin-bottom: 62px;
   max-width: 540px;
 }
 
@@ -90,7 +90,7 @@ main {
 }
 
 .showcase .card p {
-  margin: 9px 0 30px 0;
+  margin: 9px 0 33px 0;
   max-width: 286px;
   font-size: 13px;
   line-height: 23px;
