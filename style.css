@@ -26,9 +26,8 @@ body {
   background: var(--very-light-gray);
   font-size: 15px;
   min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  width: 100%;
+  
 }
 
 main {
@@ -68,7 +67,7 @@ main {
   font-size: 15px;
   line-height: 25px;
   letter-spacing: 0.1px;
-  min-width: 540px;
+  width: 540px;
 }
 
 .showcase {
@@ -151,6 +150,12 @@ main {
 
   .content {
     margin: 85px 40px 76px 40px;
+    max-width: 311px;
+    text-align: center;
+  }
+
+  .content p {
+    max-width: 311px;
   }
 
   .content h1 {
@@ -166,6 +171,8 @@ main {
     line-height: 36px;
     letter-spacing: 0.17px;
   }
+
+  
 
   .showcase .card {
     width: 311px;
