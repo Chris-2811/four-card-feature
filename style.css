@@ -82,7 +82,7 @@ main {
 
 .showcase .card {
   background: #ffff;
-  padding: 29px;
+  padding: 29px 31px 30px 31px;
   border-radius: 5px;
   width: 350px;
   position: relative;
